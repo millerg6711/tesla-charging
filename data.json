@@ -1,0 +1,2812 @@
+{
+    "data": [
+        {
+            "sessionId": 6474500,
+            "chargeStartDateTime": "2021-01-03T14:45:31-06:00"
+        },
+        {
+            "sessionId": 9799240,
+            "chargeStartDateTime": "2020-12-27T19:16:26-06:00"
+        },
+        {
+            "sessionId": 9799284,
+            "chargeStartDateTime": "2020-12-27T19:20:53-06:00"
+        },
+        {
+            "sessionId": 34746744,
+            "chargeStartDateTime": "2021-04-17T15:30:22-05:00"
+        },
+        {
+            "sessionId": 34757688,
+            "chargeStartDateTime": "2021-04-17T17:35:08-05:00"
+        },
+        {
+            "sessionId": 34768741,
+            "chargeStartDateTime": "2021-04-17T19:38:34-05:00"
+        },
+        {
+            "sessionId": 34776554,
+            "chargeStartDateTime": "2021-04-17T22:00:41-05:00"
+        },
+        {
+            "sessionId": 34780988,
+            "chargeStartDateTime": "2021-04-18T00:20:29-05:00"
+        },
+        {
+            "sessionId": 34783200,
+            "chargeStartDateTime": "2021-04-18T03:25:36-05:00"
+        },
+        {
+            "sessionId": 34853512,
+            "chargeStartDateTime": "2021-04-19T02:03:28-05:00"
+        },
+        {
+            "sessionId": 34854369,
+            "chargeStartDateTime": "2021-04-19T03:38:02-05:00"
+        },
+        {
+            "sessionId": 34872847,
+            "chargeStartDateTime": "2021-04-19T13:45:39-05:00"
+        },
+        {
+            "sessionId": 35709129,
+            "chargeStartDateTime": "2021-04-21T10:42:46-05:00"
+        },
+        {
+            "sessionId": 35710358,
+            "chargeStartDateTime": "2021-04-21T11:38:50-05:00"
+        },
+        {
+            "sessionId": 35721255,
+            "chargeStartDateTime": "2021-04-21T14:37:31-05:00"
+        },
+        {
+            "sessionId": 35733585,
+            "chargeStartDateTime": "2021-04-21T17:32:42-05:00"
+        },
+        {
+            "sessionId": 35735366,
+            "chargeStartDateTime": "2021-04-21T18:10:36-05:00"
+        },
+        {
+            "sessionId": 35787130,
+            "chargeStartDateTime": "2021-04-22T17:36:13-05:00"
+        },
+        {
+            "sessionId": 35795886,
+            "chargeStartDateTime": "2021-04-22T19:35:33-05:00"
+        },
+        {
+            "sessionId": 36470522,
+            "chargeStartDateTime": "2021-04-22T21:59:11-05:00"
+        },
+        {
+            "sessionId": 36847925,
+            "chargeStartDateTime": "2021-04-22T23:41:10-05:00"
+        },
+        {
+            "sessionId": 37912062,
+            "chargeStartDateTime": "2021-04-23T01:12:45-05:00"
+        },
+        {
+            "sessionId": 38935965,
+            "chargeStartDateTime": "2021-04-23T03:11:54-05:00"
+        },
+        {
+            "sessionId": 38937147,
+            "chargeStartDateTime": "2021-04-23T05:34:04-05:00"
+        },
+        {
+            "sessionId": 51491186,
+            "chargeStartDateTime": "2021-05-01T11:31:58-05:00"
+        },
+        {
+            "sessionId": 51520003,
+            "chargeStartDateTime": "2021-05-01T15:44:16-05:00"
+        },
+        {
+            "sessionId": 58989356,
+            "chargeStartDateTime": "2021-07-05T18:20:58-05:00"
+        },
+        {
+            "sessionId": 60431842,
+            "chargeStartDateTime": "2021-07-18T15:29:05-05:00"
+        },
+        {
+            "sessionId": 64758520,
+            "chargeStartDateTime": "2021-07-24T14:53:22-05:00"
+        },
+        {
+            "sessionId": 64805915,
+            "chargeStartDateTime": "2021-07-24T21:56:34-05:00"
+        },
+        {
+            "sessionId": 64812893,
+            "chargeStartDateTime": "2021-07-24T23:40:30-05:00"
+        },
+        {
+            "sessionId": 64814426,
+            "chargeStartDateTime": "2021-07-24T23:51:30-05:00"
+        },
+        {
+            "sessionId": 64822314,
+            "chargeStartDateTime": "2021-07-25T02:42:58-05:00"
+        },
+        {
+            "sessionId": 64881501,
+            "chargeStartDateTime": "2021-07-25T11:56:05-05:00"
+        },
+        {
+            "sessionId": 64922330,
+            "chargeStartDateTime": "2021-07-25T16:49:19-05:00"
+        },
+        {
+            "sessionId": 64932188,
+            "chargeStartDateTime": "2021-07-25T18:03:38-05:00"
+        },
+        {
+            "sessionId": 73608090,
+            "chargeStartDateTime": "2021-08-15T20:49:16-05:00"
+        },
+        {
+            "sessionId": 75534300,
+            "chargeStartDateTime": "2021-08-31T15:50:26-05:00"
+        },
+        {
+            "sessionId": 75543942,
+            "chargeStartDateTime": "2021-08-31T17:18:38-05:00"
+        },
+        {
+            "sessionId": 75555312,
+            "chargeStartDateTime": "2021-08-31T19:34:05-05:00"
+        },
+        {
+            "sessionId": 75570873,
+            "chargeStartDateTime": "2021-08-31T23:47:17-05:00"
+        },
+        {
+            "sessionId": 75575565,
+            "chargeStartDateTime": "2021-09-01T01:46:57-05:00"
+        },
+        {
+            "sessionId": 75579948,
+            "chargeStartDateTime": "2021-09-01T03:49:18-05:00"
+        },
+        {
+            "sessionId": 75580284,
+            "chargeStartDateTime": "2021-09-01T04:16:34-05:00"
+        },
+        {
+            "sessionId": 79032013,
+            "chargeStartDateTime": "2021-09-29T12:03:49-05:00"
+        },
+        {
+            "sessionId": 79425909,
+            "chargeStartDateTime": "2021-10-02T13:04:05-05:00"
+        },
+        {
+            "sessionId": 79605438,
+            "chargeStartDateTime": "2021-10-03T16:59:09-05:00"
+        },
+        {
+            "sessionId": 79835986,
+            "chargeStartDateTime": "2021-10-05T20:42:03-05:00"
+        },
+        {
+            "sessionId": 80262535,
+            "chargeStartDateTime": "2021-10-09T10:43:47-05:00"
+        },
+        {
+            "sessionId": 80278903,
+            "chargeStartDateTime": "2021-10-09T12:16:52-05:00"
+        },
+        {
+            "sessionId": 80299439,
+            "chargeStartDateTime": "2021-10-09T14:30:29-05:00"
+        },
+        {
+            "sessionId": 80324842,
+            "chargeStartDateTime": "2021-10-09T17:35:29-05:00"
+        },
+        {
+            "sessionId": 80325302,
+            "chargeStartDateTime": "2021-10-09T18:15:50-05:00"
+        },
+        {
+            "sessionId": 80335623,
+            "chargeStartDateTime": "2021-10-09T20:42:56-04:00"
+        },
+        {
+            "sessionId": 80347071,
+            "chargeStartDateTime": "2021-10-09T22:38:59-04:00"
+        },
+        {
+            "sessionId": 80355703,
+            "chargeStartDateTime": "2021-10-10T00:05:07-04:00"
+        },
+        {
+            "sessionId": 80363974,
+            "chargeStartDateTime": "2021-10-10T02:51:54-04:00"
+        },
+        {
+            "sessionId": 80369391,
+            "chargeStartDateTime": "2021-10-10T05:06:50-04:00"
+        },
+        {
+            "sessionId": 80408890,
+            "chargeStartDateTime": "2021-10-10T11:29:09-04:00"
+        },
+        {
+            "sessionId": 80432916,
+            "chargeStartDateTime": "2021-10-10T13:47:38-04:00"
+        },
+        {
+            "sessionId": 80451916,
+            "chargeStartDateTime": "2021-10-10T15:46:03-04:00"
+        },
+        {
+            "sessionId": 80465928,
+            "chargeStartDateTime": "2021-10-10T17:19:13-04:00"
+        },
+        {
+            "sessionId": 80574394,
+            "chargeStartDateTime": "2021-10-11T14:00:29-04:00"
+        },
+        {
+            "sessionId": 80611800,
+            "chargeStartDateTime": "2021-10-11T20:17:22-04:00"
+        },
+        {
+            "sessionId": 80612697,
+            "chargeStartDateTime": "2021-10-11T20:44:17-04:00"
+        },
+        {
+            "sessionId": 80623046,
+            "chargeStartDateTime": "2021-10-11T21:52:02-05:00"
+        },
+        {
+            "sessionId": 81368507,
+            "chargeStartDateTime": "2021-10-17T19:06:51-05:00"
+        },
+        {
+            "sessionId": 81445089,
+            "chargeStartDateTime": "2021-10-18T11:59:07-05:00"
+        },
+        {
+            "sessionId": 81937371,
+            "chargeStartDateTime": "2021-10-22T17:36:50-05:00"
+        },
+        {
+            "sessionId": 81958294,
+            "chargeStartDateTime": "2021-10-22T20:17:23-05:00"
+        },
+        {
+            "sessionId": 82185203,
+            "chargeStartDateTime": "2021-10-24T11:51:18-05:00"
+        },
+        {
+            "sessionId": 82824086,
+            "chargeStartDateTime": "2021-10-29T19:21:47-05:00"
+        },
+        {
+            "sessionId": 82834090,
+            "chargeStartDateTime": "2021-10-29T21:15:04-05:00"
+        },
+        {
+            "sessionId": 82845198,
+            "chargeStartDateTime": "2021-10-29T23:13:30-05:00"
+        },
+        {
+            "sessionId": 82850884,
+            "chargeStartDateTime": "2021-10-30T01:44:09-05:00"
+        },
+        {
+            "sessionId": 82856362,
+            "chargeStartDateTime": "2021-10-30T03:25:06-05:00"
+        },
+        {
+            "sessionId": 82856908,
+            "chargeStartDateTime": "2021-10-30T03:46:52-05:00"
+        },
+        {
+            "sessionId": 82864056,
+            "chargeStartDateTime": "2021-10-30T05:03:32-05:00"
+        },
+        {
+            "sessionId": 82871411,
+            "chargeStartDateTime": "2021-10-30T06:56:35-05:00"
+        },
+        {
+            "sessionId": 82876934,
+            "chargeStartDateTime": "2021-10-30T06:39:52-06:00"
+        },
+        {
+            "sessionId": 82886537,
+            "chargeStartDateTime": "2021-10-30T08:31:55-06:00"
+        },
+        {
+            "sessionId": 82888774,
+            "chargeStartDateTime": "2021-10-30T08:45:44-06:00"
+        },
+        {
+            "sessionId": 82926827,
+            "chargeStartDateTime": "2021-10-30T12:49:35-06:00"
+        },
+        {
+            "sessionId": 83005604,
+            "chargeStartDateTime": "2021-10-31T04:51:57-06:00"
+        },
+        {
+            "sessionId": 83013659,
+            "chargeStartDateTime": "2021-10-31T06:17:07-06:00"
+        },
+        {
+            "sessionId": 83026075,
+            "chargeStartDateTime": "2021-10-31T08:15:26-06:00"
+        },
+        {
+            "sessionId": 83045058,
+            "chargeStartDateTime": "2021-10-31T11:46:58-05:00"
+        },
+        {
+            "sessionId": 83047620,
+            "chargeStartDateTime": "2021-10-31T12:17:18-05:00"
+        },
+        {
+            "sessionId": 83064555,
+            "chargeStartDateTime": "2021-10-31T13:44:34-05:00"
+        },
+        {
+            "sessionId": 83079743,
+            "chargeStartDateTime": "2021-10-31T15:40:35-05:00"
+        },
+        {
+            "sessionId": 83095389,
+            "chargeStartDateTime": "2021-10-31T17:25:15-05:00"
+        },
+        {
+            "sessionId": 83107425,
+            "chargeStartDateTime": "2021-10-31T19:38:43-05:00"
+        },
+        {
+            "sessionId": 84559670,
+            "chargeStartDateTime": "2021-11-12T20:00:53-06:00"
+        },
+        {
+            "sessionId": 84560408,
+            "chargeStartDateTime": "2021-11-12T20:13:16-06:00"
+        },
+        {
+            "sessionId": 84576364,
+            "chargeStartDateTime": "2021-11-12T23:26:19-06:00"
+        },
+        {
+            "sessionId": 85071548,
+            "chargeStartDateTime": "2021-11-16T21:03:40-06:00"
+        },
+        {
+            "sessionId": 88285068,
+            "chargeStartDateTime": "2021-12-11T01:01:45-06:00"
+        },
+        {
+            "sessionId": 90146242,
+            "chargeStartDateTime": "2021-12-23T23:56:12-06:00"
+        },
+        {
+            "sessionId": 90151955,
+            "chargeStartDateTime": "2021-12-24T01:28:31-06:00"
+        },
+        {
+            "sessionId": 90277141,
+            "chargeStartDateTime": "2021-12-24T19:59:39-06:00"
+        },
+        {
+            "sessionId": 91065619,
+            "chargeStartDateTime": "2021-12-29T21:06:35-06:00"
+        },
+        {
+            "sessionId": 91216326,
+            "chargeStartDateTime": "2021-12-30T19:46:10-06:00"
+        },
+        {
+            "sessionId": 91236730,
+            "chargeStartDateTime": "2021-12-30T23:32:58-06:00"
+        },
+        {
+            "sessionId": 91332890,
+            "chargeStartDateTime": "2021-12-31T15:41:00-06:00"
+        },
+        {
+            "sessionId": 91463474,
+            "chargeStartDateTime": "2022-01-01T15:42:21-06:00"
+        },
+        {
+            "sessionId": 91486670,
+            "chargeStartDateTime": "2022-01-01T18:40:31-06:00"
+        },
+        {
+            "sessionId": 91980717,
+            "chargeStartDateTime": "2022-01-05T16:48:46-06:00"
+        },
+        {
+            "sessionId": 92250005,
+            "chargeStartDateTime": "2022-01-07T21:48:40-06:00"
+        },
+        {
+            "sessionId": 92489886,
+            "chargeStartDateTime": "2022-01-09T15:57:33-06:00"
+        },
+        {
+            "sessionId": 93194636,
+            "chargeStartDateTime": "2022-01-15T16:43:34-06:00"
+        },
+        {
+            "sessionId": 93212006,
+            "chargeStartDateTime": "2022-01-15T18:47:27-06:00"
+        },
+        {
+            "sessionId": 93585726,
+            "chargeStartDateTime": "2022-01-18T21:23:20-06:00"
+        },
+        {
+            "sessionId": 93682344,
+            "chargeStartDateTime": "2022-01-19T19:16:40-06:00"
+        },
+        {
+            "sessionId": 93945188,
+            "chargeStartDateTime": "2022-01-21T22:00:46-06:00"
+        },
+        {
+            "sessionId": 94045529,
+            "chargeStartDateTime": "2022-01-22T15:02:48-06:00"
+        },
+        {
+            "sessionId": 94159453,
+            "chargeStartDateTime": "2022-01-23T13:03:18-06:00"
+        },
+        {
+            "sessionId": 94181240,
+            "chargeStartDateTime": "2022-01-23T15:24:03-06:00"
+        },
+        {
+            "sessionId": 94324814,
+            "chargeStartDateTime": "2022-01-24T20:26:20-06:00"
+        },
+        {
+            "sessionId": 94328156,
+            "chargeStartDateTime": "2022-01-24T20:54:48-06:00"
+        },
+        {
+            "sessionId": 94330706,
+            "chargeStartDateTime": "2022-01-24T21:32:07-06:00"
+        },
+        {
+            "sessionId": 94435059,
+            "chargeStartDateTime": "2022-01-25T21:06:20-06:00"
+        },
+        {
+            "sessionId": 94884850,
+            "chargeStartDateTime": "2022-01-29T12:37:06-06:00"
+        },
+        {
+            "sessionId": 94924656,
+            "chargeStartDateTime": "2022-01-29T17:24:39-06:00"
+        },
+        {
+            "sessionId": 94947835,
+            "chargeStartDateTime": "2022-01-29T20:51:37-06:00"
+        },
+        {
+            "sessionId": 95683383,
+            "chargeStartDateTime": "2022-02-04T20:53:35-06:00"
+        },
+        {
+            "sessionId": 95702201,
+            "chargeStartDateTime": "2022-02-05T01:02:08-06:00"
+        },
+        {
+            "sessionId": 95712355,
+            "chargeStartDateTime": "2022-02-05T03:55:43-06:00"
+        },
+        {
+            "sessionId": 95794583,
+            "chargeStartDateTime": "2022-02-05T15:05:41-06:00"
+        },
+        {
+            "sessionId": 95956405,
+            "chargeStartDateTime": "2022-02-06T16:26:25-06:00"
+        },
+        {
+            "sessionId": 95979805,
+            "chargeStartDateTime": "2022-02-06T19:08:37-06:00"
+        },
+        {
+            "sessionId": 95986259,
+            "chargeStartDateTime": "2022-02-06T20:21:34-06:00"
+        },
+        {
+            "sessionId": 95993359,
+            "chargeStartDateTime": "2022-02-06T21:36:48-06:00"
+        },
+        {
+            "sessionId": 96092055,
+            "chargeStartDateTime": "2022-02-07T18:58:12-06:00"
+        },
+        {
+            "sessionId": 96092835,
+            "chargeStartDateTime": "2022-02-07T19:00:21-06:00"
+        },
+        {
+            "sessionId": 96438844,
+            "chargeStartDateTime": "2022-02-10T20:39:20-06:00"
+        },
+        {
+            "sessionId": 96586575,
+            "chargeStartDateTime": "2022-02-11T22:00:44-06:00"
+        },
+        {
+            "sessionId": 96682461,
+            "chargeStartDateTime": "2022-02-12T13:25:52-06:00"
+        },
+        {
+            "sessionId": 96734148,
+            "chargeStartDateTime": "2022-02-12T19:59:27-06:00"
+        },
+        {
+            "sessionId": 96830851,
+            "chargeStartDateTime": "2022-02-13T12:55:29-06:00"
+        },
+        {
+            "sessionId": 96868276,
+            "chargeStartDateTime": "2022-02-13T17:19:16-06:00"
+        },
+        {
+            "sessionId": 96877926,
+            "chargeStartDateTime": "2022-02-13T19:06:15-06:00"
+        },
+        {
+            "sessionId": 97009877,
+            "chargeStartDateTime": "2022-02-14T21:02:34-06:00"
+        },
+        {
+            "sessionId": 97224687,
+            "chargeStartDateTime": "2022-02-16T17:09:58-06:00"
+        },
+        {
+            "sessionId": 97237367,
+            "chargeStartDateTime": "2022-02-16T19:28:51-06:00"
+        },
+        {
+            "sessionId": 97531073,
+            "chargeStartDateTime": "2022-02-18T21:29:30-06:00"
+        },
+        {
+            "sessionId": 97542693,
+            "chargeStartDateTime": "2022-02-18T23:25:31-06:00"
+        },
+        {
+            "sessionId": 97860987,
+            "chargeStartDateTime": "2022-02-20T17:57:46-06:00"
+        },
+        {
+            "sessionId": 97877889,
+            "chargeStartDateTime": "2022-02-20T19:59:08-06:00"
+        },
+        {
+            "sessionId": 98003322,
+            "chargeStartDateTime": "2022-02-21T16:59:42-06:00"
+        },
+        {
+            "sessionId": 98019495,
+            "chargeStartDateTime": "2022-02-21T19:03:31-06:00"
+        },
+        {
+            "sessionId": 98022445,
+            "chargeStartDateTime": "2022-02-21T19:31:53-06:00"
+        },
+        {
+            "sessionId": 98156556,
+            "chargeStartDateTime": "2022-02-22T21:19:23-06:00"
+        },
+        {
+            "sessionId": 98157635,
+            "chargeStartDateTime": "2022-02-22T21:38:58-06:00"
+        },
+        {
+            "sessionId": 98160126,
+            "chargeStartDateTime": "2022-02-22T22:04:30-06:00"
+        },
+        {
+            "sessionId": 98588527,
+            "chargeStartDateTime": "2022-02-25T22:18:12-06:00"
+        },
+        {
+            "sessionId": 98666623,
+            "chargeStartDateTime": "2022-02-26T10:37:34-06:00"
+        },
+        {
+            "sessionId": 99050944,
+            "chargeStartDateTime": "2022-02-28T18:50:46-06:00"
+        },
+        {
+            "sessionId": 99171770,
+            "chargeStartDateTime": "2022-03-01T19:58:49-06:00"
+        },
+        {
+            "sessionId": 99585805,
+            "chargeStartDateTime": "2022-03-04T21:31:31-06:00"
+        },
+        {
+            "sessionId": 100053506,
+            "chargeStartDateTime": "2022-03-07T21:16:46-06:00"
+        },
+        {
+            "sessionId": 100058914,
+            "chargeStartDateTime": "2022-03-07T22:08:06-06:00"
+        },
+        {
+            "sessionId": 100172233,
+            "chargeStartDateTime": "2022-03-08T20:36:52-06:00"
+        },
+        {
+            "sessionId": 100176320,
+            "chargeStartDateTime": "2022-03-08T21:23:06-06:00"
+        },
+        {
+            "sessionId": 100714857,
+            "chargeStartDateTime": "2022-03-12T13:37:19-06:00"
+        },
+        {
+            "sessionId": 100761748,
+            "chargeStartDateTime": "2022-03-12T18:18:20-06:00"
+        },
+        {
+            "sessionId": 100764730,
+            "chargeStartDateTime": "2022-03-12T18:31:56-06:00"
+        },
+        {
+            "sessionId": 100778466,
+            "chargeStartDateTime": "2022-03-12T20:10:54-06:00"
+        },
+        {
+            "sessionId": 100793170,
+            "chargeStartDateTime": "2022-03-12T22:16:29-06:00"
+        },
+        {
+            "sessionId": 101107273,
+            "chargeStartDateTime": "2022-03-14T21:27:26-05:00"
+        },
+        {
+            "sessionId": 101211655,
+            "chargeStartDateTime": "2022-03-15T18:08:00-05:00"
+        },
+        {
+            "sessionId": 101220762,
+            "chargeStartDateTime": "2022-03-15T19:34:24-05:00"
+        },
+        {
+            "sessionId": 101234828,
+            "chargeStartDateTime": "2022-03-15T22:20:44-05:00"
+        },
+        {
+            "sessionId": 101507660,
+            "chargeStartDateTime": "2022-03-17T22:25:16-05:00"
+        },
+        {
+            "sessionId": 101668184,
+            "chargeStartDateTime": "2022-03-18T21:09:16-05:00"
+        },
+        {
+            "sessionId": 101679613,
+            "chargeStartDateTime": "2022-03-18T23:00:39-05:00"
+        },
+        {
+            "sessionId": 101682711,
+            "chargeStartDateTime": "2022-03-18T23:31:13-05:00"
+        },
+        {
+            "sessionId": 101783523,
+            "chargeStartDateTime": "2022-03-19T14:12:53-05:00"
+        },
+        {
+            "sessionId": 101825738,
+            "chargeStartDateTime": "2022-03-19T18:18:57-05:00"
+        },
+        {
+            "sessionId": 101844637,
+            "chargeStartDateTime": "2022-03-19T20:39:20-05:00"
+        },
+        {
+            "sessionId": 101855949,
+            "chargeStartDateTime": "2022-03-19T22:23:24-05:00"
+        },
+        {
+            "sessionId": 101859238,
+            "chargeStartDateTime": "2022-03-19T22:54:52-05:00"
+        },
+        {
+            "sessionId": 101867457,
+            "chargeStartDateTime": "2022-03-20T00:37:54-05:00"
+        },
+        {
+            "sessionId": 101870897,
+            "chargeStartDateTime": "2022-03-20T01:22:40-05:00"
+        },
+        {
+            "sessionId": 101926283,
+            "chargeStartDateTime": "2022-03-20T10:49:33-05:00"
+        },
+        {
+            "sessionId": 101955952,
+            "chargeStartDateTime": "2022-03-20T13:05:02-05:00"
+        },
+        {
+            "sessionId": 101982902,
+            "chargeStartDateTime": "2022-03-20T15:16:35-05:00"
+        },
+        {
+            "sessionId": 101990387,
+            "chargeStartDateTime": "2022-03-20T15:48:24-05:00"
+        },
+        {
+            "sessionId": 101993354,
+            "chargeStartDateTime": "2022-03-20T16:26:45-05:00"
+        },
+        {
+            "sessionId": 102009088,
+            "chargeStartDateTime": "2022-03-20T17:51:00-05:00"
+        },
+        {
+            "sessionId": 102022339,
+            "chargeStartDateTime": "2022-03-20T19:20:56-05:00"
+        },
+        {
+            "sessionId": 102024585,
+            "chargeStartDateTime": "2022-03-20T19:33:34-05:00"
+        },
+        {
+            "sessionId": 102039943,
+            "chargeStartDateTime": "2022-03-20T21:12:00-05:00"
+        },
+        {
+            "sessionId": 102054972,
+            "chargeStartDateTime": "2022-03-21T00:57:31-05:00"
+        },
+        {
+            "sessionId": 102103136,
+            "chargeStartDateTime": "2022-03-21T11:08:20-05:00"
+        },
+        {
+            "sessionId": 102135929,
+            "chargeStartDateTime": "2022-03-21T15:16:57-05:00"
+        },
+        {
+            "sessionId": 102136323,
+            "chargeStartDateTime": "2022-03-21T15:43:43-05:00"
+        },
+        {
+            "sessionId": 102151629,
+            "chargeStartDateTime": "2022-03-21T18:23:40-04:00"
+        },
+        {
+            "sessionId": 102166245,
+            "chargeStartDateTime": "2022-03-21T20:41:50-04:00"
+        },
+        {
+            "sessionId": 102219112,
+            "chargeStartDateTime": "2022-03-22T10:29:57-04:00"
+        },
+        {
+            "sessionId": 102233294,
+            "chargeStartDateTime": "2022-03-22T12:48:56-04:00"
+        },
+        {
+            "sessionId": 102246875,
+            "chargeStartDateTime": "2022-03-22T13:57:23-04:00"
+        },
+        {
+            "sessionId": 102275539,
+            "chargeStartDateTime": "2022-03-22T18:19:01-04:00"
+        },
+        {
+            "sessionId": 102343966,
+            "chargeStartDateTime": "2022-03-23T10:39:49-04:00"
+        },
+        {
+            "sessionId": 102380778,
+            "chargeStartDateTime": "2022-03-23T14:32:31-04:00"
+        },
+        {
+            "sessionId": 102564915,
+            "chargeStartDateTime": "2022-03-24T21:31:20-04:00"
+        },
+        {
+            "sessionId": 102565485,
+            "chargeStartDateTime": "2022-03-24T21:40:10-04:00"
+        },
+        {
+            "sessionId": 102582925,
+            "chargeStartDateTime": "2022-03-25T00:39:06-04:00"
+        },
+        {
+            "sessionId": 102587605,
+            "chargeStartDateTime": "2022-03-25T02:15:57-04:00"
+        },
+        {
+            "sessionId": 102646564,
+            "chargeStartDateTime": "2022-03-25T12:44:11-04:00"
+        },
+        {
+            "sessionId": 102661675,
+            "chargeStartDateTime": "2022-03-25T13:52:39-04:00"
+        },
+        {
+            "sessionId": 102715910,
+            "chargeStartDateTime": "2022-03-25T19:15:13-04:00"
+        },
+        {
+            "sessionId": 102717431,
+            "chargeStartDateTime": "2022-03-25T19:26:21-04:00"
+        },
+        {
+            "sessionId": 102733195,
+            "chargeStartDateTime": "2022-03-25T20:57:11-04:00"
+        },
+        {
+            "sessionId": 102744948,
+            "chargeStartDateTime": "2022-03-25T23:03:35-04:00"
+        },
+        {
+            "sessionId": 102749758,
+            "chargeStartDateTime": "2022-03-25T23:10:40-04:00"
+        },
+        {
+            "sessionId": 102764396,
+            "chargeStartDateTime": "2022-03-26T01:58:09-05:00"
+        },
+        {
+            "sessionId": 102769797,
+            "chargeStartDateTime": "2022-03-26T03:15:02-05:00"
+        },
+        {
+            "sessionId": 102776797,
+            "chargeStartDateTime": "2022-03-26T05:20:04-05:00"
+        },
+        {
+            "sessionId": 102791175,
+            "chargeStartDateTime": "2022-03-26T07:56:37-05:00"
+        },
+        {
+            "sessionId": 102800300,
+            "chargeStartDateTime": "2022-03-26T08:50:56-05:00"
+        },
+        {
+            "sessionId": 102817260,
+            "chargeStartDateTime": "2022-03-26T10:58:34-05:00"
+        },
+        {
+            "sessionId": 102823227,
+            "chargeStartDateTime": "2022-03-26T11:22:43-05:00"
+        },
+        {
+            "sessionId": 102842895,
+            "chargeStartDateTime": "2022-03-26T13:00:07-05:00"
+        },
+        {
+            "sessionId": 102867703,
+            "chargeStartDateTime": "2022-03-26T14:52:58-05:00"
+        },
+        {
+            "sessionId": 102894394,
+            "chargeStartDateTime": "2022-03-26T17:18:25-05:00"
+        },
+        {
+            "sessionId": 102914887,
+            "chargeStartDateTime": "2022-03-26T19:51:11-05:00"
+        },
+        {
+            "sessionId": 103373434,
+            "chargeStartDateTime": "2022-03-29T20:06:52-05:00"
+        },
+        {
+            "sessionId": 103385626,
+            "chargeStartDateTime": "2022-03-29T22:31:13-05:00"
+        },
+        {
+            "sessionId": 103517761,
+            "chargeStartDateTime": "2022-03-30T21:49:02-05:00"
+        },
+        {
+            "sessionId": 103845417,
+            "chargeStartDateTime": "2022-04-01T23:00:06-05:00"
+        },
+        {
+            "sessionId": 103996210,
+            "chargeStartDateTime": "2022-04-02T18:43:29-05:00"
+        },
+        {
+            "sessionId": 104020913,
+            "chargeStartDateTime": "2022-04-02T21:45:04-05:00"
+        },
+        {
+            "sessionId": 104468474,
+            "chargeStartDateTime": "2022-04-05T21:39:32-05:00"
+        },
+        {
+            "sessionId": 104541511,
+            "chargeStartDateTime": "2022-04-06T12:36:43-05:00"
+        },
+        {
+            "sessionId": 104934400,
+            "chargeStartDateTime": "2022-04-08T22:10:13-05:00"
+        },
+        {
+            "sessionId": 105053593,
+            "chargeStartDateTime": "2022-04-09T13:07:38-05:00"
+        },
+        {
+            "sessionId": 105231643,
+            "chargeStartDateTime": "2022-04-10T12:27:06-05:00"
+        },
+        {
+            "sessionId": 105245376,
+            "chargeStartDateTime": "2022-04-10T13:22:06-05:00"
+        },
+        {
+            "sessionId": 105292550,
+            "chargeStartDateTime": "2022-04-10T17:23:40-05:00"
+        },
+        {
+            "sessionId": 105470609,
+            "chargeStartDateTime": "2022-04-11T21:24:42-05:00"
+        },
+        {
+            "sessionId": 106218971,
+            "chargeStartDateTime": "2022-04-16T12:58:03-05:00"
+        },
+        {
+            "sessionId": 106287823,
+            "chargeStartDateTime": "2022-04-16T19:48:25-05:00"
+        },
+        {
+            "sessionId": 106302252,
+            "chargeStartDateTime": "2022-04-16T21:57:39-05:00"
+        },
+        {
+            "sessionId": 106392052,
+            "chargeStartDateTime": "2022-04-17T12:03:56-05:00"
+        },
+        {
+            "sessionId": 106643712,
+            "chargeStartDateTime": "2022-04-18T18:37:08-05:00"
+        },
+        {
+            "sessionId": 106938923,
+            "chargeStartDateTime": "2022-04-20T22:34:39-05:00"
+        },
+        {
+            "sessionId": 107248645,
+            "chargeStartDateTime": "2022-04-22T21:24:54-05:00"
+        },
+        {
+            "sessionId": 107870546,
+            "chargeStartDateTime": "2022-04-26T19:16:16-05:00"
+        },
+        {
+            "sessionId": 107881340,
+            "chargeStartDateTime": "2022-04-26T21:13:01-05:00"
+        },
+        {
+            "sessionId": 107885259,
+            "chargeStartDateTime": "2022-04-26T21:58:08-05:00"
+        },
+        {
+            "sessionId": 108001696,
+            "chargeStartDateTime": "2022-04-27T18:42:27-05:00"
+        },
+        {
+            "sessionId": 108009251,
+            "chargeStartDateTime": "2022-04-27T19:47:00-05:00"
+        },
+        {
+            "sessionId": 108337528,
+            "chargeStartDateTime": "2022-04-29T21:26:36-05:00"
+        },
+        {
+            "sessionId": 108348035,
+            "chargeStartDateTime": "2022-04-29T22:54:35-05:00"
+        },
+        {
+            "sessionId": 108358332,
+            "chargeStartDateTime": "2022-04-30T01:19:05-05:00"
+        },
+        {
+            "sessionId": 108377773,
+            "chargeStartDateTime": "2022-04-30T05:33:16-05:00"
+        },
+        {
+            "sessionId": 108380662,
+            "chargeStartDateTime": "2022-04-30T05:53:33-05:00"
+        },
+        {
+            "sessionId": 108622482,
+            "chargeStartDateTime": "2022-05-01T13:15:10-05:00"
+        },
+        {
+            "sessionId": 108623727,
+            "chargeStartDateTime": "2022-05-01T13:25:04-05:00"
+        },
+        {
+            "sessionId": 108641894,
+            "chargeStartDateTime": "2022-05-01T14:17:29-05:00"
+        },
+        {
+            "sessionId": 108669933,
+            "chargeStartDateTime": "2022-05-01T16:41:36-05:00"
+        },
+        {
+            "sessionId": 108834975,
+            "chargeStartDateTime": "2022-05-02T19:51:05-05:00"
+        },
+        {
+            "sessionId": 108963853,
+            "chargeStartDateTime": "2022-05-03T20:13:01-05:00"
+        },
+        {
+            "sessionId": 108969989,
+            "chargeStartDateTime": "2022-05-03T21:14:28-05:00"
+        },
+        {
+            "sessionId": 109257044,
+            "chargeStartDateTime": "2022-05-05T22:28:41-05:00"
+        },
+        {
+            "sessionId": 109445731,
+            "chargeStartDateTime": "2022-05-07T01:18:08-05:00"
+        },
+        {
+            "sessionId": 109590211,
+            "chargeStartDateTime": "2022-05-07T18:47:19-05:00"
+        },
+        {
+            "sessionId": 109782386,
+            "chargeStartDateTime": "2022-05-08T19:44:41-05:00"
+        },
+        {
+            "sessionId": 109792952,
+            "chargeStartDateTime": "2022-05-08T21:09:02-05:00"
+        },
+        {
+            "sessionId": 109802795,
+            "chargeStartDateTime": "2022-05-08T22:36:48-05:00"
+        },
+        {
+            "sessionId": 110184477,
+            "chargeStartDateTime": "2022-05-11T18:00:47-05:00"
+        },
+        {
+            "sessionId": 110517042,
+            "chargeStartDateTime": "2022-05-13T19:51:27-05:00"
+        },
+        {
+            "sessionId": 110531014,
+            "chargeStartDateTime": "2022-05-13T21:35:14-05:00"
+        },
+        {
+            "sessionId": 110718640,
+            "chargeStartDateTime": "2022-05-14T22:07:30-05:00"
+        },
+        {
+            "sessionId": 110871879,
+            "chargeStartDateTime": "2022-05-15T17:28:49-05:00"
+        },
+        {
+            "sessionId": 111305496,
+            "chargeStartDateTime": "2022-05-18T18:08:49-05:00"
+        },
+        {
+            "sessionId": 111313152,
+            "chargeStartDateTime": "2022-05-18T19:16:54-05:00"
+        },
+        {
+            "sessionId": 111644743,
+            "chargeStartDateTime": "2022-05-20T19:48:55-05:00"
+        },
+        {
+            "sessionId": 111645040,
+            "chargeStartDateTime": "2022-05-20T19:50:37-05:00"
+        },
+        {
+            "sessionId": 111780838,
+            "chargeStartDateTime": "2022-05-21T14:39:56-05:00"
+        },
+        {
+            "sessionId": 111800780,
+            "chargeStartDateTime": "2022-05-21T16:04:58-05:00"
+        },
+        {
+            "sessionId": 111843473,
+            "chargeStartDateTime": "2022-05-21T21:02:17-05:00"
+        },
+        {
+            "sessionId": 112194197,
+            "chargeStartDateTime": "2022-05-23T20:45:59-05:00"
+        },
+        {
+            "sessionId": 113636063,
+            "chargeStartDateTime": "2022-05-31T21:00:14-05:00"
+        },
+        {
+            "sessionId": 114136927,
+            "chargeStartDateTime": "2022-06-03T21:45:14-05:00"
+        },
+        {
+            "sessionId": 115371448,
+            "chargeStartDateTime": "2022-06-10T23:08:07-05:00"
+        },
+        {
+            "sessionId": 115480061,
+            "chargeStartDateTime": "2022-06-11T13:21:50-05:00"
+        },
+        {
+            "sessionId": 115930467,
+            "chargeStartDateTime": "2022-06-13T19:18:41-05:00"
+        },
+        {
+            "sessionId": 115935504,
+            "chargeStartDateTime": "2022-06-13T19:46:41-05:00"
+        },
+        {
+            "sessionId": 117972856,
+            "chargeStartDateTime": "2022-06-24T18:19:01-05:00"
+        },
+        {
+            "sessionId": 118030205,
+            "chargeStartDateTime": "2022-06-25T01:08:51-05:00"
+        },
+        {
+            "sessionId": 118176981,
+            "chargeStartDateTime": "2022-06-25T16:39:47-05:00"
+        },
+        {
+            "sessionId": 118647881,
+            "chargeStartDateTime": "2022-06-27T21:15:19-05:00"
+        },
+        {
+            "sessionId": 118805627,
+            "chargeStartDateTime": "2022-06-28T20:05:05-05:00"
+        },
+        {
+            "sessionId": 118810106,
+            "chargeStartDateTime": "2022-06-28T20:28:52-05:00"
+        },
+        {
+            "sessionId": 119561459,
+            "chargeStartDateTime": "2022-07-02T12:59:53-05:00"
+        },
+        {
+            "sessionId": 119570886,
+            "chargeStartDateTime": "2022-07-02T13:23:46-05:00"
+        },
+        {
+            "sessionId": 119590253,
+            "chargeStartDateTime": "2022-07-02T14:23:22-05:00"
+        },
+        {
+            "sessionId": 119641167,
+            "chargeStartDateTime": "2022-07-02T18:30:52-05:00"
+        },
+        {
+            "sessionId": 120881257,
+            "chargeStartDateTime": "2022-07-08T21:47:31-05:00"
+        },
+        {
+            "sessionId": 120901137,
+            "chargeStartDateTime": "2022-07-09T00:31:01-05:00"
+        },
+        {
+            "sessionId": 121099628,
+            "chargeStartDateTime": "2022-07-09T19:48:34-05:00"
+        },
+        {
+            "sessionId": 121105672,
+            "chargeStartDateTime": "2022-07-09T20:31:07-05:00"
+        },
+        {
+            "sessionId": 121110507,
+            "chargeStartDateTime": "2022-07-09T20:49:06-05:00"
+        },
+        {
+            "sessionId": 121278658,
+            "chargeStartDateTime": "2022-07-10T14:29:12-05:00"
+        },
+        {
+            "sessionId": 122116684,
+            "chargeStartDateTime": "2022-07-14T21:54:56-05:00"
+        },
+        {
+            "sessionId": 122126085,
+            "chargeStartDateTime": "2022-07-14T23:12:37-05:00"
+        },
+        {
+            "sessionId": 122284307,
+            "chargeStartDateTime": "2022-07-15T16:31:09-05:00"
+        },
+        {
+            "sessionId": 122314799,
+            "chargeStartDateTime": "2022-07-15T18:23:59-05:00"
+        },
+        {
+            "sessionId": 122342651,
+            "chargeStartDateTime": "2022-07-15T21:35:02-05:00"
+        },
+        {
+            "sessionId": 122346292,
+            "chargeStartDateTime": "2022-07-15T21:48:36-05:00"
+        },
+        {
+            "sessionId": 122463390,
+            "chargeStartDateTime": "2022-07-16T10:31:10-05:00"
+        },
+        {
+            "sessionId": 122492380,
+            "chargeStartDateTime": "2022-07-16T13:09:17-05:00"
+        },
+        {
+            "sessionId": 122522493,
+            "chargeStartDateTime": "2022-07-16T15:10:34-05:00"
+        },
+        {
+            "sessionId": 122544274,
+            "chargeStartDateTime": "2022-07-16T16:58:30-05:00"
+        },
+        {
+            "sessionId": 122563134,
+            "chargeStartDateTime": "2022-07-16T18:50:56-05:00"
+        },
+        {
+            "sessionId": 122589182,
+            "chargeStartDateTime": "2022-07-16T21:37:03-05:00"
+        },
+        {
+            "sessionId": 122601531,
+            "chargeStartDateTime": "2022-07-16T22:36:20-05:00"
+        },
+        {
+            "sessionId": 122831329,
+            "chargeStartDateTime": "2022-07-17T19:34:06-05:00"
+        },
+        {
+            "sessionId": 122982437,
+            "chargeStartDateTime": "2022-07-18T14:22:36-05:00"
+        },
+        {
+            "sessionId": 123153592,
+            "chargeStartDateTime": "2022-07-19T12:43:04-05:00"
+        },
+        {
+            "sessionId": 123410409,
+            "chargeStartDateTime": "2022-07-20T19:21:21-05:00"
+        },
+        {
+            "sessionId": 123534735,
+            "chargeStartDateTime": "2022-07-21T12:04:39-05:00"
+        },
+        {
+            "sessionId": 123750456,
+            "chargeStartDateTime": "2022-07-22T11:37:24-05:00"
+        },
+        {
+            "sessionId": 123784015,
+            "chargeStartDateTime": "2022-07-22T14:06:54-05:00"
+        },
+        {
+            "sessionId": 123818169,
+            "chargeStartDateTime": "2022-07-22T16:48:41-05:00"
+        },
+        {
+            "sessionId": 123841404,
+            "chargeStartDateTime": "2022-07-22T18:47:03-05:00"
+        },
+        {
+            "sessionId": 123858810,
+            "chargeStartDateTime": "2022-07-22T20:23:21-05:00"
+        },
+        {
+            "sessionId": 123876073,
+            "chargeStartDateTime": "2022-07-22T22:21:08-05:00"
+        },
+        {
+            "sessionId": 123891254,
+            "chargeStartDateTime": "2022-07-23T00:37:06-05:00"
+        },
+        {
+            "sessionId": 124002313,
+            "chargeStartDateTime": "2022-07-23T11:31:45-05:00"
+        },
+        {
+            "sessionId": 126302497,
+            "chargeStartDateTime": "2022-08-02T21:41:27-05:00"
+        },
+        {
+            "sessionId": 126598274,
+            "chargeStartDateTime": "2022-08-04T11:54:59-05:00"
+        },
+        {
+            "sessionId": 126599476,
+            "chargeStartDateTime": "2022-08-04T12:02:04-05:00"
+        },
+        {
+            "sessionId": 126808611,
+            "chargeStartDateTime": "2022-08-05T11:27:05-05:00"
+        },
+        {
+            "sessionId": 126918754,
+            "chargeStartDateTime": "2022-08-05T20:09:21-05:00"
+        },
+        {
+            "sessionId": 127533821,
+            "chargeStartDateTime": "2022-08-08T11:26:41-05:00"
+        },
+        {
+            "sessionId": 128394979,
+            "chargeStartDateTime": "2022-08-12T18:37:53-05:00"
+        },
+        {
+            "sessionId": 128430375,
+            "chargeStartDateTime": "2022-08-12T22:23:27-05:00"
+        },
+        {
+            "sessionId": 128641354,
+            "chargeStartDateTime": "2022-08-13T19:31:21-05:00"
+        },
+        {
+            "sessionId": 128660511,
+            "chargeStartDateTime": "2022-08-13T21:25:21-05:00"
+        },
+        {
+            "sessionId": 128677108,
+            "chargeStartDateTime": "2022-08-13T23:00:18-05:00"
+        },
+        {
+            "sessionId": 129273292,
+            "chargeStartDateTime": "2022-08-16T20:40:48-05:00"
+        },
+        {
+            "sessionId": 129275434,
+            "chargeStartDateTime": "2022-08-16T20:55:14-05:00"
+        },
+        {
+            "sessionId": 130126112,
+            "chargeStartDateTime": "2022-08-21T00:16:34-05:00"
+        },
+        {
+            "sessionId": 130139889,
+            "chargeStartDateTime": "2022-08-21T02:42:19-05:00"
+        },
+        {
+            "sessionId": 130510382,
+            "chargeStartDateTime": "2022-08-22T19:40:23-05:00"
+        },
+        {
+            "sessionId": 131240902,
+            "chargeStartDateTime": "2022-08-26T18:43:44-05:00"
+        },
+        {
+            "sessionId": 131408232,
+            "chargeStartDateTime": "2022-08-27T13:29:02-05:00"
+        },
+        {
+            "sessionId": 131450934,
+            "chargeStartDateTime": "2022-08-27T17:06:59-05:00"
+        },
+        {
+            "sessionId": 131497093,
+            "chargeStartDateTime": "2022-08-27T21:24:38-05:00"
+        },
+        {
+            "sessionId": 131913155,
+            "chargeStartDateTime": "2022-08-29T22:50:38-05:00"
+        },
+        {
+            "sessionId": 132069283,
+            "chargeStartDateTime": "2022-08-30T21:19:54-05:00"
+        },
+        {
+            "sessionId": 132919709,
+            "chargeStartDateTime": "2022-09-03T22:59:28-05:00"
+        },
+        {
+            "sessionId": 133139125,
+            "chargeStartDateTime": "2022-09-04T20:51:35-05:00"
+        },
+        {
+            "sessionId": 133145899,
+            "chargeStartDateTime": "2022-09-04T21:44:51-05:00"
+        },
+        {
+            "sessionId": 134230584,
+            "chargeStartDateTime": "2022-09-10T12:11:08-05:00"
+        },
+        {
+            "sessionId": 134247708,
+            "chargeStartDateTime": "2022-09-10T13:15:57-05:00"
+        },
+        {
+            "sessionId": 134713827,
+            "chargeStartDateTime": "2022-09-12T20:19:58-05:00"
+        },
+        {
+            "sessionId": 134727968,
+            "chargeStartDateTime": "2022-09-12T22:43:02-05:00"
+        },
+        {
+            "sessionId": 135149176,
+            "chargeStartDateTime": "2022-09-15T12:28:54-05:00"
+        },
+        {
+            "sessionId": 135441140,
+            "chargeStartDateTime": "2022-09-16T21:41:19-05:00"
+        },
+        {
+            "sessionId": 135672002,
+            "chargeStartDateTime": "2022-09-17T23:01:34-05:00"
+        },
+        {
+            "sessionId": 136381985,
+            "chargeStartDateTime": "2022-09-21T19:24:22-05:00"
+        },
+        {
+            "sessionId": 136813365,
+            "chargeStartDateTime": "2022-09-24T00:24:53-05:00"
+        },
+        {
+            "sessionId": 136929310,
+            "chargeStartDateTime": "2022-09-24T13:45:17-05:00"
+        },
+        {
+            "sessionId": 136944683,
+            "chargeStartDateTime": "2022-09-24T14:27:42-05:00"
+        },
+        {
+            "sessionId": 137022682,
+            "chargeStartDateTime": "2022-09-24T22:21:24-05:00"
+        },
+        {
+            "sessionId": 137028597,
+            "chargeStartDateTime": "2022-09-24T23:10:27-05:00"
+        },
+        {
+            "sessionId": 137137685,
+            "chargeStartDateTime": "2022-09-25T11:51:24-05:00"
+        },
+        {
+            "sessionId": 137957819,
+            "chargeStartDateTime": "2022-09-29T23:59:14-05:00"
+        },
+        {
+            "sessionId": 137960927,
+            "chargeStartDateTime": "2022-09-30T00:33:56-05:00"
+        },
+        {
+            "sessionId": 138161797,
+            "chargeStartDateTime": "2022-09-30T22:02:31-05:00"
+        },
+        {
+            "sessionId": 138357554,
+            "chargeStartDateTime": "2022-10-01T19:30:48-05:00"
+        },
+        {
+            "sessionId": 138366879,
+            "chargeStartDateTime": "2022-10-01T20:20:17-05:00"
+        },
+        {
+            "sessionId": 138400931,
+            "chargeStartDateTime": "2022-10-02T01:53:57-05:00"
+        },
+        {
+            "sessionId": 138484648,
+            "chargeStartDateTime": "2022-10-02T12:00:59-05:00"
+        },
+        {
+            "sessionId": 138683464,
+            "chargeStartDateTime": "2022-10-03T11:19:48-05:00"
+        },
+        {
+            "sessionId": 139105449,
+            "chargeStartDateTime": "2022-10-05T22:14:50-05:00"
+        },
+        {
+            "sessionId": 139500667,
+            "chargeStartDateTime": "2022-10-07T21:39:48-05:00"
+        },
+        {
+            "sessionId": 139595355,
+            "chargeStartDateTime": "2022-10-08T10:29:21-05:00"
+        },
+        {
+            "sessionId": 139713282,
+            "chargeStartDateTime": "2022-10-08T20:20:44-05:00"
+        },
+        {
+            "sessionId": 139724408,
+            "chargeStartDateTime": "2022-10-08T21:09:56-05:00"
+        },
+        {
+            "sessionId": 139753642,
+            "chargeStartDateTime": "2022-10-09T02:03:30-05:00"
+        },
+        {
+            "sessionId": 141014721,
+            "chargeStartDateTime": "2022-10-15T14:42:29-05:00"
+        },
+        {
+            "sessionId": 141080703,
+            "chargeStartDateTime": "2022-10-15T20:24:11-05:00"
+        },
+        {
+            "sessionId": 141301978,
+            "chargeStartDateTime": "2022-10-16T19:47:12-05:00"
+        },
+        {
+            "sessionId": 141632678,
+            "chargeStartDateTime": "2022-10-18T19:15:25-05:00"
+        },
+        {
+            "sessionId": 141647294,
+            "chargeStartDateTime": "2022-10-18T21:11:29-05:00"
+        },
+        {
+            "sessionId": 141650432,
+            "chargeStartDateTime": "2022-10-18T21:39:32-05:00"
+        },
+        {
+            "sessionId": 141984176,
+            "chargeStartDateTime": "2022-10-20T18:30:33-05:00"
+        },
+        {
+            "sessionId": 142193893,
+            "chargeStartDateTime": "2022-10-21T18:27:02-05:00"
+        },
+        {
+            "sessionId": 142206035,
+            "chargeStartDateTime": "2022-10-21T19:07:06-05:00"
+        },
+        {
+            "sessionId": 142240736,
+            "chargeStartDateTime": "2022-10-21T23:50:59-05:00"
+        },
+        {
+            "sessionId": 142625662,
+            "chargeStartDateTime": "2022-10-23T16:24:46-05:00"
+        },
+        {
+            "sessionId": 143345039,
+            "chargeStartDateTime": "2022-10-27T20:10:01-05:00"
+        },
+        {
+            "sessionId": 143350539,
+            "chargeStartDateTime": "2022-10-27T20:34:46-05:00"
+        },
+        {
+            "sessionId": 143578414,
+            "chargeStartDateTime": "2022-10-28T23:23:25-05:00"
+        },
+        {
+            "sessionId": 143717096,
+            "chargeStartDateTime": "2022-10-29T14:54:43-05:00"
+        },
+        {
+            "sessionId": 143727302,
+            "chargeStartDateTime": "2022-10-29T15:54:25-05:00"
+        },
+        {
+            "sessionId": 143931298,
+            "chargeStartDateTime": "2022-10-30T14:16:29-05:00"
+        },
+        {
+            "sessionId": 143983095,
+            "chargeStartDateTime": "2022-10-30T19:05:08-05:00"
+        },
+        {
+            "sessionId": 144491469,
+            "chargeStartDateTime": "2022-11-02T20:02:22-05:00"
+        },
+        {
+            "sessionId": 144897419,
+            "chargeStartDateTime": "2022-11-04T22:32:46-05:00"
+        },
+        {
+            "sessionId": 144911295,
+            "chargeStartDateTime": "2022-11-05T00:55:00-05:00"
+        },
+        {
+            "sessionId": 144922290,
+            "chargeStartDateTime": "2022-11-05T03:16:14-05:00"
+        },
+        {
+            "sessionId": 145102580,
+            "chargeStartDateTime": "2022-11-05T21:22:56-05:00"
+        },
+        {
+            "sessionId": 145108194,
+            "chargeStartDateTime": "2022-11-05T22:14:05-05:00"
+        },
+        {
+            "sessionId": 145111215,
+            "chargeStartDateTime": "2022-11-05T22:34:43-05:00"
+        },
+        {
+            "sessionId": 146196363,
+            "chargeStartDateTime": "2022-11-11T19:36:58-06:00"
+        },
+        {
+            "sessionId": 146205573,
+            "chargeStartDateTime": "2022-11-11T20:38:54-06:00"
+        },
+        {
+            "sessionId": 146222447,
+            "chargeStartDateTime": "2022-11-11T22:46:40-06:00"
+        },
+        {
+            "sessionId": 146227220,
+            "chargeStartDateTime": "2022-11-11T23:40:36-06:00"
+        },
+        {
+            "sessionId": 147798341,
+            "chargeStartDateTime": "2022-11-19T18:15:41-06:00"
+        },
+        {
+            "sessionId": 149097584,
+            "chargeStartDateTime": "2022-11-25T19:28:32-06:00"
+        },
+        {
+            "sessionId": 150524519,
+            "chargeStartDateTime": "2022-12-02T20:22:37-06:00"
+        },
+        {
+            "sessionId": 150540890,
+            "chargeStartDateTime": "2022-12-02T22:06:26-06:00"
+        },
+        {
+            "sessionId": 151153134,
+            "chargeStartDateTime": "2022-12-05T22:24:41-06:00"
+        },
+        {
+            "sessionId": 151309688,
+            "chargeStartDateTime": "2022-12-06T19:45:06-06:00"
+        },
+        {
+            "sessionId": 152743426,
+            "chargeStartDateTime": "2022-12-13T19:49:01-06:00"
+        },
+        {
+            "sessionId": 152757211,
+            "chargeStartDateTime": "2022-12-13T21:45:21-06:00"
+        },
+        {
+            "sessionId": 152766689,
+            "chargeStartDateTime": "2022-12-14T00:14:07-05:00"
+        },
+        {
+            "sessionId": 152776837,
+            "chargeStartDateTime": "2022-12-14T02:15:39-05:00"
+        },
+        {
+            "sessionId": 152920716,
+            "chargeStartDateTime": "2022-12-14T18:34:36-05:00"
+        },
+        {
+            "sessionId": 153048879,
+            "chargeStartDateTime": "2022-12-15T11:38:55-05:00"
+        },
+        {
+            "sessionId": 153074560,
+            "chargeStartDateTime": "2022-12-15T13:20:08-05:00"
+        },
+        {
+            "sessionId": 153106468,
+            "chargeStartDateTime": "2022-12-15T16:05:09-05:00"
+        },
+        {
+            "sessionId": 153133464,
+            "chargeStartDateTime": "2022-12-15T18:50:48-05:00"
+        },
+        {
+            "sessionId": 153151346,
+            "chargeStartDateTime": "2022-12-15T20:48:58-05:00"
+        },
+        {
+            "sessionId": 153562263,
+            "chargeStartDateTime": "2022-12-17T14:42:46-05:00"
+        },
+        {
+            "sessionId": 153588906,
+            "chargeStartDateTime": "2022-12-17T16:32:21-05:00"
+        },
+        {
+            "sessionId": 153827602,
+            "chargeStartDateTime": "2022-12-18T15:41:07-05:00"
+        },
+        {
+            "sessionId": 153870277,
+            "chargeStartDateTime": "2022-12-18T18:51:54-05:00"
+        },
+        {
+            "sessionId": 153895183,
+            "chargeStartDateTime": "2022-12-18T21:48:07-05:00"
+        },
+        {
+            "sessionId": 153991614,
+            "chargeStartDateTime": "2022-12-19T11:14:20-05:00"
+        },
+        {
+            "sessionId": 154007683,
+            "chargeStartDateTime": "2022-12-19T12:57:16-05:00"
+        },
+        {
+            "sessionId": 154027377,
+            "chargeStartDateTime": "2022-12-19T13:45:06-05:00"
+        },
+        {
+            "sessionId": 154055145,
+            "chargeStartDateTime": "2022-12-19T16:52:10-05:00"
+        },
+        {
+            "sessionId": 154086028,
+            "chargeStartDateTime": "2022-12-19T18:10:21-06:00"
+        },
+        {
+            "sessionId": 155006687,
+            "chargeStartDateTime": "2022-12-23T17:48:05-06:00"
+        },
+        {
+            "sessionId": 155615497,
+            "chargeStartDateTime": "2022-12-26T13:15:39-06:00"
+        },
+        {
+            "sessionId": 155658385,
+            "chargeStartDateTime": "2022-12-26T15:16:47-06:00"
+        },
+        {
+            "sessionId": 155718401,
+            "chargeStartDateTime": "2022-12-26T19:45:31-06:00"
+        },
+        {
+            "sessionId": 155986458,
+            "chargeStartDateTime": "2022-12-27T20:49:24-06:00"
+        },
+        {
+            "sessionId": 155992962,
+            "chargeStartDateTime": "2022-12-27T21:27:50-06:00"
+        },
+        {
+            "sessionId": 155996791,
+            "chargeStartDateTime": "2022-12-27T22:02:33-06:00"
+        },
+        {
+            "sessionId": 156473082,
+            "chargeStartDateTime": "2022-12-29T20:25:00-06:00"
+        },
+        {
+            "sessionId": 156485611,
+            "chargeStartDateTime": "2022-12-29T21:34:46-06:00"
+        },
+        {
+            "sessionId": 156721481,
+            "chargeStartDateTime": "2022-12-30T19:16:40-06:00"
+        },
+        {
+            "sessionId": 156900538,
+            "chargeStartDateTime": "2022-12-31T15:29:38-06:00"
+        },
+        {
+            "sessionId": 156956247,
+            "chargeStartDateTime": "2022-12-31T21:11:24-06:00"
+        },
+        {
+            "sessionId": 156973759,
+            "chargeStartDateTime": "2023-01-01T00:24:42-06:00"
+        },
+        {
+            "sessionId": 156983306,
+            "chargeStartDateTime": "2023-01-01T02:35:54-06:00"
+        },
+        {
+            "sessionId": 157762080,
+            "chargeStartDateTime": "2023-01-04T19:56:48-06:00"
+        },
+        {
+            "sessionId": 158162024,
+            "chargeStartDateTime": "2023-01-06T22:19:20-06:00"
+        },
+        {
+            "sessionId": 159627231,
+            "chargeStartDateTime": "2023-01-14T12:38:49-06:00"
+        },
+        {
+            "sessionId": 159661581,
+            "chargeStartDateTime": "2023-01-14T14:46:30-06:00"
+        },
+        {
+            "sessionId": 159685003,
+            "chargeStartDateTime": "2023-01-14T16:57:24-06:00"
+        },
+        {
+            "sessionId": 159724896,
+            "chargeStartDateTime": "2023-01-14T20:49:03-06:00"
+        },
+        {
+            "sessionId": 159743249,
+            "chargeStartDateTime": "2023-01-14T23:12:17-06:00"
+        },
+        {
+            "sessionId": 163931344,
+            "chargeStartDateTime": "2023-02-03T20:22:40-06:00"
+        },
+        {
+            "sessionId": 167219370,
+            "chargeStartDateTime": "2023-02-18T16:11:00-06:00"
+        },
+        {
+            "sessionId": 167233887,
+            "chargeStartDateTime": "2023-02-18T17:13:18-06:00"
+        },
+        {
+            "sessionId": 168679385,
+            "chargeStartDateTime": "2023-02-24T21:06:37-06:00"
+        },
+        {
+            "sessionId": 168688211,
+            "chargeStartDateTime": "2023-02-24T22:06:10-06:00"
+        },
+        {
+            "sessionId": 168693200,
+            "chargeStartDateTime": "2023-02-24T22:31:15-06:00"
+        },
+        {
+            "sessionId": 169821873,
+            "chargeStartDateTime": "2023-03-01T19:38:26-06:00"
+        },
+        {
+            "sessionId": 170481094,
+            "chargeStartDateTime": "2023-03-04T14:17:36-06:00"
+        },
+        {
+            "sessionId": 171887779,
+            "chargeStartDateTime": "2023-03-10T19:40:35-06:00"
+        },
+        {
+            "sessionId": 171901327,
+            "chargeStartDateTime": "2023-03-10T20:50:20-06:00"
+        },
+        {
+            "sessionId": 172063722,
+            "chargeStartDateTime": "2023-03-11T13:04:50-06:00"
+        },
+        {
+            "sessionId": 173048170,
+            "chargeStartDateTime": "2023-03-15T20:05:38-05:00"
+        },
+        {
+            "sessionId": 173554390,
+            "chargeStartDateTime": "2023-03-17T22:24:52-05:00"
+        },
+        {
+            "sessionId": 173735421,
+            "chargeStartDateTime": "2023-03-18T15:28:39-05:00"
+        },
+        {
+            "sessionId": 173782642,
+            "chargeStartDateTime": "2023-03-18T18:40:59-05:00"
+        },
+        {
+            "sessionId": 173813941,
+            "chargeStartDateTime": "2023-03-18T21:00:33-05:00"
+        },
+        {
+            "sessionId": 174042781,
+            "chargeStartDateTime": "2023-03-19T17:11:05-05:00"
+        },
+        {
+            "sessionId": 174081932,
+            "chargeStartDateTime": "2023-03-19T20:19:34-05:00"
+        },
+        {
+            "sessionId": 174496362,
+            "chargeStartDateTime": "2023-03-21T20:51:01-05:00"
+        },
+        {
+            "sessionId": 174697865,
+            "chargeStartDateTime": "2023-03-22T20:44:53-05:00"
+        },
+        {
+            "sessionId": 174716008,
+            "chargeStartDateTime": "2023-03-22T22:52:44-05:00"
+        },
+        {
+            "sessionId": 174725968,
+            "chargeStartDateTime": "2023-03-23T00:30:31-05:00"
+        },
+        {
+            "sessionId": 174733094,
+            "chargeStartDateTime": "2023-03-23T02:15:09-05:00"
+        },
+        {
+            "sessionId": 174735029,
+            "chargeStartDateTime": "2023-03-23T02:33:03-05:00"
+        },
+        {
+            "sessionId": 174741720,
+            "chargeStartDateTime": "2023-03-23T03:53:18-05:00"
+        },
+        {
+            "sessionId": 174752242,
+            "chargeStartDateTime": "2023-03-23T05:08:06-05:00"
+        },
+        {
+            "sessionId": 174770121,
+            "chargeStartDateTime": "2023-03-23T08:13:48-05:00"
+        },
+        {
+            "sessionId": 174803692,
+            "chargeStartDateTime": "2023-03-23T11:32:14-05:00"
+        },
+        {
+            "sessionId": 174820892,
+            "chargeStartDateTime": "2023-03-23T12:49:05-05:00"
+        },
+        {
+            "sessionId": 175170167,
+            "chargeStartDateTime": "2023-03-24T20:19:43-05:00"
+        },
+        {
+            "sessionId": 175196908,
+            "chargeStartDateTime": "2023-03-24T23:06:19-05:00"
+        },
+        {
+            "sessionId": 175358600,
+            "chargeStartDateTime": "2023-03-25T14:36:43-05:00"
+        },
+        {
+            "sessionId": 175372868,
+            "chargeStartDateTime": "2023-03-25T15:07:20-05:00"
+        },
+        {
+            "sessionId": 175404133,
+            "chargeStartDateTime": "2023-03-25T17:31:53-05:00"
+        },
+        {
+            "sessionId": 176152413,
+            "chargeStartDateTime": "2023-03-28T21:42:25-05:00"
+        },
+        {
+            "sessionId": 176161966,
+            "chargeStartDateTime": "2023-03-28T23:00:35-05:00"
+        },
+        {
+            "sessionId": 176341237,
+            "chargeStartDateTime": "2023-03-29T18:58:53-05:00"
+        },
+        {
+            "sessionId": 176888889,
+            "chargeStartDateTime": "2023-03-31T23:04:08-05:00"
+        },
+        {
+            "sessionId": 176893516,
+            "chargeStartDateTime": "2023-03-31T23:32:06-05:00"
+        },
+        {
+            "sessionId": 177144090,
+            "chargeStartDateTime": "2023-04-01T19:28:43-05:00"
+        },
+        {
+            "sessionId": 177180930,
+            "chargeStartDateTime": "2023-04-01T22:43:04-05:00"
+        },
+        {
+            "sessionId": 177204590,
+            "chargeStartDateTime": "2023-04-02T02:11:05-05:00"
+        },
+        {
+            "sessionId": 178121167,
+            "chargeStartDateTime": "2023-04-05T19:37:39-05:00"
+        },
+        {
+            "sessionId": 178125031,
+            "chargeStartDateTime": "2023-04-05T20:04:52-05:00"
+        },
+        {
+            "sessionId": 178409150,
+            "chargeStartDateTime": "2023-04-06T23:07:18-05:00"
+        },
+        {
+            "sessionId": 178419836,
+            "chargeStartDateTime": "2023-04-07T00:30:19-05:00"
+        },
+        {
+            "sessionId": 178670525,
+            "chargeStartDateTime": "2023-04-07T20:22:39-05:00"
+        },
+        {
+            "sessionId": 180419722,
+            "chargeStartDateTime": "2023-04-14T20:55:55-05:00"
+        },
+        {
+            "sessionId": 180426559,
+            "chargeStartDateTime": "2023-04-14T21:29:45-05:00"
+        },
+        {
+            "sessionId": 180453538,
+            "chargeStartDateTime": "2023-04-15T00:33:34-05:00"
+        },
+        {
+            "sessionId": 180660158,
+            "chargeStartDateTime": "2023-04-15T18:01:03-05:00"
+        },
+        {
+            "sessionId": 180708001,
+            "chargeStartDateTime": "2023-04-15T22:02:02-05:00"
+        },
+        {
+            "sessionId": 180715542,
+            "chargeStartDateTime": "2023-04-15T22:48:44-05:00"
+        },
+        {
+            "sessionId": 181407413,
+            "chargeStartDateTime": "2023-04-18T22:06:36-05:00"
+        },
+        {
+            "sessionId": 181410498,
+            "chargeStartDateTime": "2023-04-18T22:34:40-05:00"
+        },
+        {
+            "sessionId": 182142989,
+            "chargeStartDateTime": "2023-04-22T00:54:57-05:00"
+        },
+        {
+            "sessionId": 182155691,
+            "chargeStartDateTime": "2023-04-22T02:58:00-05:00"
+        },
+        {
+            "sessionId": 184049901,
+            "chargeStartDateTime": "2023-04-29T17:19:57-05:00"
+        },
+        {
+            "sessionId": 184290978,
+            "chargeStartDateTime": "2023-04-30T15:05:40-05:00"
+        },
+        {
+            "sessionId": 184334671,
+            "chargeStartDateTime": "2023-04-30T17:20:31-05:00"
+        },
+        {
+            "sessionId": 184346172,
+            "chargeStartDateTime": "2023-04-30T18:43:54-05:00"
+        },
+        {
+            "sessionId": 184384814,
+            "chargeStartDateTime": "2023-04-30T21:54:38-05:00"
+        },
+        {
+            "sessionId": 184406446,
+            "chargeStartDateTime": "2023-05-01T00:47:19-05:00"
+        },
+        {
+            "sessionId": 185237761,
+            "chargeStartDateTime": "2023-05-04T19:44:00-05:00"
+        },
+        {
+            "sessionId": 186698183,
+            "chargeStartDateTime": "2023-05-10T21:43:21-05:00"
+        },
+        {
+            "sessionId": 186706034,
+            "chargeStartDateTime": "2023-05-10T22:59:14-05:00"
+        },
+        {
+            "sessionId": 186710282,
+            "chargeStartDateTime": "2023-05-10T23:32:54-05:00"
+        },
+        {
+            "sessionId": 186915938,
+            "chargeStartDateTime": "2023-05-11T20:39:04-05:00"
+        },
+        {
+            "sessionId": 186938212,
+            "chargeStartDateTime": "2023-05-11T23:20:33-05:00"
+        },
+        {
+            "sessionId": 186953412,
+            "chargeStartDateTime": "2023-05-12T01:40:41-05:00"
+        },
+        {
+            "sessionId": 187430443,
+            "chargeStartDateTime": "2023-05-13T18:03:15-05:00"
+        },
+        {
+            "sessionId": 187496528,
+            "chargeStartDateTime": "2023-05-14T00:42:01-05:00"
+        },
+        {
+            "sessionId": 188198357,
+            "chargeStartDateTime": "2023-05-16T22:23:25-05:00"
+        },
+        {
+            "sessionId": 190207975,
+            "chargeStartDateTime": "2023-05-24T21:38:21-05:00"
+        },
+        {
+            "sessionId": 190450187,
+            "chargeStartDateTime": "2023-05-25T21:57:09-05:00"
+        },
+        {
+            "sessionId": 190747066,
+            "chargeStartDateTime": "2023-05-26T21:35:14-05:00"
+        },
+        {
+            "sessionId": 190949350,
+            "chargeStartDateTime": "2023-05-27T14:34:28-05:00"
+        },
+        {
+            "sessionId": 191013167,
+            "chargeStartDateTime": "2023-05-27T18:25:07-05:00"
+        },
+        {
+            "sessionId": 191065876,
+            "chargeStartDateTime": "2023-05-27T22:22:27-05:00"
+        },
+        {
+            "sessionId": 191279440,
+            "chargeStartDateTime": "2023-05-28T16:17:57-05:00"
+        },
+        {
+            "sessionId": 192085398,
+            "chargeStartDateTime": "2023-05-31T20:04:58-05:00"
+        },
+        {
+            "sessionId": 192563743,
+            "chargeStartDateTime": "2023-06-02T18:06:14-05:00"
+        },
+        {
+            "sessionId": 192585187,
+            "chargeStartDateTime": "2023-06-02T19:33:33-05:00"
+        },
+        {
+            "sessionId": 192607300,
+            "chargeStartDateTime": "2023-06-02T21:32:45-05:00"
+        },
+        {
+            "sessionId": 192622742,
+            "chargeStartDateTime": "2023-06-02T23:19:54-05:00"
+        },
+        {
+            "sessionId": 192634463,
+            "chargeStartDateTime": "2023-06-03T00:49:18-05:00"
+        },
+        {
+            "sessionId": 192651943,
+            "chargeStartDateTime": "2023-06-03T03:16:26-05:00"
+        },
+        {
+            "sessionId": 192677906,
+            "chargeStartDateTime": "2023-06-03T06:43:36-05:00"
+        },
+        {
+            "sessionId": 193154678,
+            "chargeStartDateTime": "2023-06-04T19:06:11-05:00"
+        },
+        {
+            "sessionId": 193404683,
+            "chargeStartDateTime": "2023-06-05T20:27:49-05:00"
+        },
+        {
+            "sessionId": 194222119,
+            "chargeStartDateTime": "2023-06-09T10:55:11-05:00"
+        },
+        {
+            "sessionId": 194253229,
+            "chargeStartDateTime": "2023-06-09T13:03:18-05:00"
+        },
+        {
+            "sessionId": 194278082,
+            "chargeStartDateTime": "2023-06-09T14:30:48-05:00"
+        },
+        {
+            "sessionId": 194312072,
+            "chargeStartDateTime": "2023-06-09T16:22:06-05:00"
+        },
+        {
+            "sessionId": 194344662,
+            "chargeStartDateTime": "2023-06-09T18:52:57-05:00"
+        },
+        {
+            "sessionId": 194363715,
+            "chargeStartDateTime": "2023-06-09T20:38:18-05:00"
+        },
+        {
+            "sessionId": 194367899,
+            "chargeStartDateTime": "2023-06-09T20:42:51-05:00"
+        },
+        {
+            "sessionId": 194639897,
+            "chargeStartDateTime": "2023-06-10T19:08:59-05:00"
+        },
+        {
+            "sessionId": 194676067,
+            "chargeStartDateTime": "2023-06-10T22:41:26-05:00"
+        },
+        {
+            "sessionId": 196273845,
+            "chargeStartDateTime": "2023-06-16T17:26:18-05:00"
+        },
+        {
+            "sessionId": 196322449,
+            "chargeStartDateTime": "2023-06-16T20:48:19-05:00"
+        },
+        {
+            "sessionId": 196342696,
+            "chargeStartDateTime": "2023-06-16T22:22:51-05:00"
+        },
+        {
+            "sessionId": 196357771,
+            "chargeStartDateTime": "2023-06-17T00:17:30-05:00"
+        },
+        {
+            "sessionId": 196369807,
+            "chargeStartDateTime": "2023-06-17T01:35:16-05:00"
+        },
+        {
+            "sessionId": 196380025,
+            "chargeStartDateTime": "2023-06-17T03:17:03-05:00"
+        },
+        {
+            "sessionId": 196387280,
+            "chargeStartDateTime": "2023-06-17T03:38:50-05:00"
+        },
+        {
+            "sessionId": 196449764,
+            "chargeStartDateTime": "2023-06-17T09:41:13-05:00"
+        },
+        {
+            "sessionId": 196452032,
+            "chargeStartDateTime": "2023-06-17T10:05:50-05:00"
+        },
+        {
+            "sessionId": 196483528,
+            "chargeStartDateTime": "2023-06-17T11:38:11-05:00"
+        },
+        {
+            "sessionId": 196517125,
+            "chargeStartDateTime": "2023-06-17T13:01:56-05:00"
+        },
+        {
+            "sessionId": 196563362,
+            "chargeStartDateTime": "2023-06-17T15:45:52-05:00"
+        },
+        {
+            "sessionId": 196646916,
+            "chargeStartDateTime": "2023-06-17T21:50:11-05:00"
+        },
+        {
+            "sessionId": 196789711,
+            "chargeStartDateTime": "2023-06-18T11:15:46-05:00"
+        },
+        {
+            "sessionId": 196817605,
+            "chargeStartDateTime": "2023-06-18T12:41:34-05:00"
+        },
+        {
+            "sessionId": 196828616,
+            "chargeStartDateTime": "2023-06-18T12:55:12-05:00"
+        },
+        {
+            "sessionId": 196831746,
+            "chargeStartDateTime": "2023-06-18T13:28:03-05:00"
+        },
+        {
+            "sessionId": 196873162,
+            "chargeStartDateTime": "2023-06-18T14:47:21-05:00"
+        },
+        {
+            "sessionId": 196915126,
+            "chargeStartDateTime": "2023-06-18T16:57:55-05:00"
+        },
+        {
+            "sessionId": 196950975,
+            "chargeStartDateTime": "2023-06-18T19:58:00-05:00"
+        },
+        {
+            "sessionId": 196965796,
+            "chargeStartDateTime": "2023-06-18T21:18:16-05:00"
+        },
+        {
+            "sessionId": 196988091,
+            "chargeStartDateTime": "2023-06-18T22:56:36-05:00"
+        },
+        {
+            "sessionId": 197004676,
+            "chargeStartDateTime": "2023-06-19T01:11:13-05:00"
+        },
+        {
+            "sessionId": 197017954,
+            "chargeStartDateTime": "2023-06-19T03:21:48-05:00"
+        },
+        {
+            "sessionId": 197030190,
+            "chargeStartDateTime": "2023-06-19T05:25:18-05:00"
+        },
+        {
+            "sessionId": 197038117,
+            "chargeStartDateTime": "2023-06-19T06:33:37-05:00"
+        },
+        {
+            "sessionId": 197054657,
+            "chargeStartDateTime": "2023-06-19T07:37:01-05:00"
+        },
+        {
+            "sessionId": 197094221,
+            "chargeStartDateTime": "2023-06-19T10:56:45-05:00"
+        },
+        {
+            "sessionId": 197130530,
+            "chargeStartDateTime": "2023-06-19T13:08:54-05:00"
+        },
+        {
+            "sessionId": 197131251,
+            "chargeStartDateTime": "2023-06-19T13:43:08-05:00"
+        },
+        {
+            "sessionId": 197172783,
+            "chargeStartDateTime": "2023-06-19T15:47:11-05:00"
+        },
+        {
+            "sessionId": 197220561,
+            "chargeStartDateTime": "2023-06-19T18:59:16-05:00"
+        },
+        {
+            "sessionId": 197242137,
+            "chargeStartDateTime": "2023-06-19T21:01:49-05:00"
+        },
+        {
+            "sessionId": 197710769,
+            "chargeStartDateTime": "2023-06-21T19:36:48-05:00"
+        },
+        {
+            "sessionId": 198870667,
+            "chargeStartDateTime": "2023-06-25T16:13:32-05:00"
+        },
+        {
+            "sessionId": 199471433,
+            "chargeStartDateTime": "2023-06-27T22:50:04-05:00"
+        },
+        {
+            "sessionId": 200227257,
+            "chargeStartDateTime": "2023-06-30T14:13:00-05:00"
+        },
+        {
+            "sessionId": 200318930,
+            "chargeStartDateTime": "2023-06-30T18:55:21-05:00"
+        },
+        {
+            "sessionId": 200347400,
+            "chargeStartDateTime": "2023-06-30T21:10:13-05:00"
+        },
+        {
+            "sessionId": 200375268,
+            "chargeStartDateTime": "2023-06-30T23:07:25-05:00"
+        },
+        {
+            "sessionId": 200389790,
+            "chargeStartDateTime": "2023-07-01T01:30:20-04:00"
+        },
+        {
+            "sessionId": 200403205,
+            "chargeStartDateTime": "2023-07-01T02:53:59-04:00"
+        },
+        {
+            "sessionId": 200416015,
+            "chargeStartDateTime": "2023-07-01T04:10:06-04:00"
+        },
+        {
+            "sessionId": 200429966,
+            "chargeStartDateTime": "2023-07-01T05:54:38-04:00"
+        },
+        {
+            "sessionId": 200443918,
+            "chargeStartDateTime": "2023-07-01T06:50:26-04:00"
+        },
+        {
+            "sessionId": 200824398,
+            "chargeStartDateTime": "2023-07-02T08:09:17-04:00"
+        },
+        {
+            "sessionId": 200841912,
+            "chargeStartDateTime": "2023-07-02T09:43:43-04:00"
+        },
+        {
+            "sessionId": 200859088,
+            "chargeStartDateTime": "2023-07-02T10:20:37-04:00"
+        },
+        {
+            "sessionId": 200905905,
+            "chargeStartDateTime": "2023-07-02T12:23:47-04:00"
+        },
+        {
+            "sessionId": 200958811,
+            "chargeStartDateTime": "2023-07-02T14:57:18-04:00"
+        },
+        {
+            "sessionId": 200998362,
+            "chargeStartDateTime": "2023-07-02T17:07:12-04:00"
+        },
+        {
+            "sessionId": 201272843,
+            "chargeStartDateTime": "2023-07-03T14:15:59-04:00"
+        },
+        {
+            "sessionId": 201307167,
+            "chargeStartDateTime": "2023-07-03T16:04:14-04:00"
+        },
+        {
+            "sessionId": 201332545,
+            "chargeStartDateTime": "2023-07-03T17:48:57-04:00"
+        },
+        {
+            "sessionId": 201356615,
+            "chargeStartDateTime": "2023-07-03T18:25:07-04:00"
+        },
+        {
+            "sessionId": 201390497,
+            "chargeStartDateTime": "2023-07-03T21:14:17-04:00"
+        },
+        {
+            "sessionId": 201412481,
+            "chargeStartDateTime": "2023-07-03T22:52:58-04:00"
+        },
+        {
+            "sessionId": 201434772,
+            "chargeStartDateTime": "2023-07-04T01:28:34-04:00"
+        },
+        {
+            "sessionId": 201449710,
+            "chargeStartDateTime": "2023-07-04T03:09:17-04:00"
+        },
+        {
+            "sessionId": 201466956,
+            "chargeStartDateTime": "2023-07-04T05:24:58-04:00"
+        },
+        {
+            "sessionId": 201482954,
+            "chargeStartDateTime": "2023-07-04T07:59:02-04:00"
+        },
+        {
+            "sessionId": 201494582,
+            "chargeStartDateTime": "2023-07-04T09:22:43-04:00"
+        },
+        {
+            "sessionId": 201512358,
+            "chargeStartDateTime": "2023-07-04T09:37:51-05:00"
+        },
+        {
+            "sessionId": 201535084,
+            "chargeStartDateTime": "2023-07-04T11:20:37-05:00"
+        },
+        {
+            "sessionId": 202455098,
+            "chargeStartDateTime": "2023-07-07T13:23:50-05:00"
+        },
+        {
+            "sessionId": 202549098,
+            "chargeStartDateTime": "2023-07-07T18:47:19-05:00"
+        },
+        {
+            "sessionId": 202579421,
+            "chargeStartDateTime": "2023-07-07T20:15:03-05:00"
+        },
+        {
+            "sessionId": 202763433,
+            "chargeStartDateTime": "2023-07-08T11:20:13-05:00"
+        },
+        {
+            "sessionId": 202789242,
+            "chargeStartDateTime": "2023-07-08T12:51:27-05:00"
+        },
+        {
+            "sessionId": 202828997,
+            "chargeStartDateTime": "2023-07-08T14:20:00-05:00"
+        },
+        {
+            "sessionId": 203249791,
+            "chargeStartDateTime": "2023-07-09T17:52:39-05:00"
+        },
+        {
+            "sessionId": 203558675,
+            "chargeStartDateTime": "2023-07-10T19:11:05-05:00"
+        },
+        {
+            "sessionId": 204712680,
+            "chargeStartDateTime": "2023-07-14T16:32:45-05:00"
+        },
+        {
+            "sessionId": 204736485,
+            "chargeStartDateTime": "2023-07-14T17:47:11-05:00"
+        },
+        {
+            "sessionId": 204739786,
+            "chargeStartDateTime": "2023-07-14T17:59:12-05:00"
+        },
+        {
+            "sessionId": 204794557,
+            "chargeStartDateTime": "2023-07-14T21:26:54-05:00"
+        },
+        {
+            "sessionId": 204813091,
+            "chargeStartDateTime": "2023-07-14T23:00:59-05:00"
+        },
+        {
+            "sessionId": 204829502,
+            "chargeStartDateTime": "2023-07-15T00:32:51-05:00"
+        },
+        {
+            "sessionId": 204839491,
+            "chargeStartDateTime": "2023-07-15T01:26:10-05:00"
+        },
+        {
+            "sessionId": 205146232,
+            "chargeStartDateTime": "2023-07-15T19:08:20-05:00"
+        },
+        {
+            "sessionId": 205175933,
+            "chargeStartDateTime": "2023-07-15T21:49:07-05:00"
+        },
+        {
+            "sessionId": 205499187,
+            "chargeStartDateTime": "2023-07-16T17:20:21-05:00"
+        },
+        {
+            "sessionId": 206443572,
+            "chargeStartDateTime": "2023-07-19T21:44:23-05:00"
+        },
+        {
+            "sessionId": 207011963,
+            "chargeStartDateTime": "2023-07-21T15:19:03-05:00"
+        },
+        {
+            "sessionId": 207078105,
+            "chargeStartDateTime": "2023-07-21T18:46:30-05:00"
+        },
+        {
+            "sessionId": 207123758,
+            "chargeStartDateTime": "2023-07-21T22:03:29-05:00"
+        },
+        {
+            "sessionId": 207728704,
+            "chargeStartDateTime": "2023-07-23T13:13:34-05:00"
+        },
+        {
+            "sessionId": 207822590,
+            "chargeStartDateTime": "2023-07-23T17:26:59-05:00"
+        },
+        {
+            "sessionId": 207875674,
+            "chargeStartDateTime": "2023-07-23T21:08:47-05:00"
+        },
+        {
+            "sessionId": 209305910,
+            "chargeStartDateTime": "2023-07-28T13:08:20-05:00"
+        },
+        {
+            "sessionId": 209367763,
+            "chargeStartDateTime": "2023-07-28T15:56:33-05:00"
+        },
+        {
+            "sessionId": 209391445,
+            "chargeStartDateTime": "2023-07-28T17:01:09-05:00"
+        },
+        {
+            "sessionId": 209703944,
+            "chargeStartDateTime": "2023-07-29T13:32:37-05:00"
+        },
+        {
+            "sessionId": 209790313,
+            "chargeStartDateTime": "2023-07-29T17:48:57-05:00"
+        },
+        {
+            "sessionId": 209824476,
+            "chargeStartDateTime": "2023-07-29T19:46:01-05:00"
+        },
+        {
+            "sessionId": 209847238,
+            "chargeStartDateTime": "2023-07-29T21:41:31-05:00"
+        },
+        {
+            "sessionId": 209860382,
+            "chargeStartDateTime": "2023-07-29T22:24:22-05:00"
+        },
+        {
+            "sessionId": 210047525,
+            "chargeStartDateTime": "2023-07-30T11:27:40-05:00"
+        },
+        {
+            "sessionId": 210121482,
+            "chargeStartDateTime": "2023-07-30T15:00:06-05:00"
+        },
+        {
+            "sessionId": 210134083,
+            "chargeStartDateTime": "2023-07-30T15:53:05-05:00"
+        },
+        {
+            "sessionId": 210157860,
+            "chargeStartDateTime": "2023-07-30T17:01:00-05:00"
+        },
+        {
+            "sessionId": 210177385,
+            "chargeStartDateTime": "2023-07-30T18:01:11-05:00"
+        },
+        {
+            "sessionId": 210210064,
+            "chargeStartDateTime": "2023-07-30T19:47:24-05:00"
+        },
+        {
+            "sessionId": 210229955,
+            "chargeStartDateTime": "2023-07-30T21:12:25-05:00"
+        },
+        {
+            "sessionId": 210248458,
+            "chargeStartDateTime": "2023-07-30T22:42:21-05:00"
+        },
+        {
+            "sessionId": 210519074,
+            "chargeStartDateTime": "2023-07-31T19:39:01-05:00"
+        },
+        {
+            "sessionId": 210523025,
+            "chargeStartDateTime": "2023-07-31T19:56:40-05:00"
+        },
+        {
+            "sessionId": 210531217,
+            "chargeStartDateTime": "2023-07-31T20:38:34-05:00"
+        },
+        {
+            "sessionId": 210536391,
+            "chargeStartDateTime": "2023-07-31T21:02:18-05:00"
+        },
+        {
+            "sessionId": 210545536,
+            "chargeStartDateTime": "2023-07-31T21:37:19-05:00"
+        },
+        {
+            "sessionId": 212058029,
+            "chargeStartDateTime": "2023-08-05T16:28:23-05:00"
+        },
+        {
+            "sessionId": 212073168,
+            "chargeStartDateTime": "2023-08-05T17:13:07-05:00"
+        },
+        {
+            "sessionId": 212085863,
+            "chargeStartDateTime": "2023-08-05T18:00:38-05:00"
+        },
+        {
+            "sessionId": 212120017,
+            "chargeStartDateTime": "2023-08-05T19:41:50-05:00"
+        },
+        {
+            "sessionId": 213928162,
+            "chargeStartDateTime": "2023-08-11T15:22:16-05:00"
+        },
+        {
+            "sessionId": 214010739,
+            "chargeStartDateTime": "2023-08-11T20:30:27-05:00"
+        },
+        {
+            "sessionId": 214017462,
+            "chargeStartDateTime": "2023-08-11T21:03:00-05:00"
+        },
+        {
+            "sessionId": 214022391,
+            "chargeStartDateTime": "2023-08-11T21:05:07-05:00"
+        },
+        {
+            "sessionId": 214291457,
+            "chargeStartDateTime": "2023-08-12T15:23:08-05:00"
+        },
+        {
+            "sessionId": 214305403,
+            "chargeStartDateTime": "2023-08-12T15:52:04-05:00"
+        },
+        {
+            "sessionId": 214423937,
+            "chargeStartDateTime": "2023-08-12T23:52:28-05:00"
+        },
+        {
+            "sessionId": 216200655,
+            "chargeStartDateTime": "2023-08-18T16:10:48-05:00"
+        },
+        {
+            "sessionId": 216281236,
+            "chargeStartDateTime": "2023-08-18T21:07:37-05:00"
+        },
+        {
+            "sessionId": 216321784,
+            "chargeStartDateTime": "2023-08-19T00:48:59-05:00"
+        },
+        {
+            "sessionId": 216878352,
+            "chargeStartDateTime": "2023-08-20T13:39:44-05:00"
+        },
+        {
+            "sessionId": 216971495,
+            "chargeStartDateTime": "2023-08-20T18:35:37-05:00"
+        },
+        {
+            "sessionId": 217803059,
+            "chargeStartDateTime": "2023-08-23T21:23:06-05:00"
+        },
+        {
+            "sessionId": 217804270,
+            "chargeStartDateTime": "2023-08-23T21:32:56-05:00"
+        },
+        {
+            "sessionId": 218375916,
+            "chargeStartDateTime": "2023-08-25T17:43:16-05:00"
+        },
+        {
+            "sessionId": 218458948,
+            "chargeStartDateTime": "2023-08-26T00:08:46-05:00"
+        },
+        {
+            "sessionId": 218471007,
+            "chargeStartDateTime": "2023-08-26T01:34:18-05:00"
+        },
+        {
+            "sessionId": 218686282,
+            "chargeStartDateTime": "2023-08-26T15:11:24-05:00"
+        },
+        {
+            "sessionId": 218765402,
+            "chargeStartDateTime": "2023-08-26T19:47:18-05:00"
+        },
+        {
+            "sessionId": 218819183,
+            "chargeStartDateTime": "2023-08-27T00:59:46-05:00"
+        },
+        {
+            "sessionId": 220574823,
+            "chargeStartDateTime": "2023-09-01T18:32:38-05:00"
+        },
+        {
+            "sessionId": 220607102,
+            "chargeStartDateTime": "2023-09-01T19:39:14-05:00"
+        },
+        {
+            "sessionId": 220651082,
+            "chargeStartDateTime": "2023-09-02T00:00:33-05:00"
+        },
+        {
+            "sessionId": 221207940,
+            "chargeStartDateTime": "2023-09-03T14:08:08-05:00"
+        },
+        {
+            "sessionId": 221265354,
+            "chargeStartDateTime": "2023-09-03T17:26:56-05:00"
+        },
+        {
+            "sessionId": 221293142,
+            "chargeStartDateTime": "2023-09-03T18:27:32-05:00"
+        },
+        {
+            "sessionId": 222714950,
+            "chargeStartDateTime": "2023-09-08T17:13:41-05:00"
+        },
+        {
+            "sessionId": 223096131,
+            "chargeStartDateTime": "2023-09-09T20:13:40-05:00"
+        },
+        {
+            "sessionId": 223139822,
+            "chargeStartDateTime": "2023-09-10T00:36:39-05:00"
+        }
+    ]
+}
