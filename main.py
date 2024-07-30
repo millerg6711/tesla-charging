@@ -1,34 +1,60 @@
 import json
+
 import matplotlib.pyplot as plt
-from matplotlib.dates import date2num, MonthLocator, DateFormatter
-from datetime import datetime
+import numpy as np
+import pandas as pd
 
-# data obtained from https://www.tesla.com/teslaaccount/charging/api/history
+# data pulled from https://fleet-api.prd.na.vn.cloud.tesla.com/api/1/dx/charging/historye
 
-# Load data from JSON
-with open('data.json', 'r') as f:
-    data = json.load(f)
+# Load data from JSON file
+with open('data.json') as file:
+    data = json.load(file)
 
-session_data = data['data']
+# Convert JSON data to a DataFrame
+df = pd.DataFrame(data['data'])
 
-# Extract session IDs and corresponding start dates
-session_ids = [entry['sessionId'] for entry in session_data]
-dates = [date2num(datetime.fromisoformat(entry['chargeStartDateTime'].replace('Z', '+00:00'))) for entry in
-         session_data]
+# Convert the chargeStartDateTime to a datetime object
+df['chargeStartDateTime'] = pd.to_datetime(df['chargeStartDateTime'], utc=True)
 
-# Plotting
-fig, ax = plt.subplots(figsize=(10, 5))  # Increase the width to 12 inches
+# Sort the DataFrame by chargeStartDateTime
+df = df.sort_values(by='chargeStartDateTime')
 
-ax.plot(dates, session_ids, marker='o', linestyle='-', color='red', markersize=4)
-ax.xaxis.set_major_locator(MonthLocator())
-ax.xaxis.set_major_formatter(DateFormatter('%b %Y'))
+# Extract datetime and session ID for regression
+x = df['chargeStartDateTime'].map(pd.Timestamp.toordinal).values
+y = df['sessionId'].values
 
-# Custom y-tick formatting to display full numbers with commas
+# Calculate polynomial regression (degree 2)
+coefficients = np.polyfit(x, y, 2)
+poly_regression_line = np.polyval(coefficients, x)
+
+# Create future dates up to 2026
+last_date = df['chargeStartDateTime'].max().date()
+future_dates = pd.date_range(start=last_date, end='2025-12-31', freq='D')
+future_dates_ord = future_dates.map(pd.Timestamp.toordinal).values
+future_poly_regression_line = np.polyval(coefficients, future_dates_ord)
+
+# Combine current and future data for plotting
+all_dates = np.concatenate((x, future_dates_ord))
+all_dates_datetime = pd.to_datetime([pd.Timestamp.fromordinal(int(date)) for date in all_dates], utc=True)
+all_poly_regression_line = np.concatenate((poly_regression_line, future_poly_regression_line))
+
+# Plot the data
+plt.figure(figsize=(14, 7))
+ax = plt.gca()  # Get current axes
+ax.plot(df['chargeStartDateTime'], df['sessionId'], marker='o', markersize=3, linestyle='None', label='Data Points')
+ax.plot(all_dates_datetime, all_poly_regression_line, color='red', label='Trend Line')
+
+ax.set_title('Charging Session ID Over Time')
+ax.set_xlabel('Time')
+ax.set_ylabel('Session ID')
+ax.grid(True)
+
+# Custom y-tick formatting
 ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: '{:,.0f}'.format(x)))
 
-plt.title('Charging Session ID over Time')
-plt.xlabel('Time')
-plt.ylabel('Session ID')
 plt.xticks(rotation=45)
 plt.tight_layout()
+plt.legend()
+
+# Show the plot
 plt.show()
