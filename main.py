@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-# data pulled from https://fleet-api.prd.na.vn.cloud.tesla.com/api/1/dx/charging/historye
+# data pulled from https://fleet-api.prd.na.vn.cloud.tesla.com/api/1/dx/charging/history
 
 # Load data from JSON file
 with open('data.json') as file:
